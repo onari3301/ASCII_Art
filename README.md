@@ -1,3 +1,3 @@
 # ASCII_Art
 
-Kääntää kuvan ASCII symboleiksi.
+Kääntää kuvan ASCII symboleiksi ja tulostaa consoleen.
